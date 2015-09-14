@@ -1,3 +1,5 @@
 Debug/
 x64/
 ipch/
+*.sdf
+*.suo
